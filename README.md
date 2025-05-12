@@ -59,7 +59,7 @@ move(a, on(c), on(d)).
 
 move(c, \[pos(0), pos(1)\], \[on(a), on(b)\]).
 
-**1.1.2. s_inicial=i2 até o estado s_final=i2 (b).**
+##**1.1.2. s_inicial=i2 até o estado s_final=i2 (b).**
 
 ![](imgs/img2.jpeg)
 
@@ -246,7 +246,7 @@ empilhamento.
 -   **clear(X)** → Nada está sobre o bloco X;
 
 -   **holding(X**) → Está segurando o bloco X (caso deseje simular braço
-    > robótico);
+     robótico);
 
 -   **handempty** → A mão está vazia (se usar esse modelo).
 
