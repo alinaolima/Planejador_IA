@@ -36,16 +36,16 @@ podemos estabelecer o seguinte plano de ações, ilustrado na Figura 1:
 2.  b é movido da posição 5 (na mesa) p/ a posição 1 (em cima de c);
 
 3.  d é movido da posição 2, 3 e 4 (na mesa) p/ a posição 3, 4 e 5 (na
-    > mesa);
+     mesa);
 
 4.  b é movido da posição 1 (em cima de c) p/ a posição 5 (em cima de
-    > d);
+     d);
 
 5.  a é movido da posição 0 (em cima de c) p/ a posição 4 (em cima de
-    > d);
+     d);
 
 6.  c é movido da posição 0 e 1 (na mesa) p/ a posição 4 e 5 (em cima de
-    > a e b que estão sobre d).
+     a e b que estão sobre d).
 
 **Prolog**
 
