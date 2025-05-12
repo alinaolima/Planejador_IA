@@ -288,25 +288,25 @@ apresentada no documento.
 -   Um bloco só pode ser movido se estiver livre (nada em cima dele).
 
 -   A posição de destino deve estar livre (se for outro bloco) ou ser
-    > uma posição válida na mesa.
+     uma posição válida na mesa.
 
 -   O bloco deve estar atualmente em uma posição conhecida.
 
 **Restrição de Tamanho:**
 
 -   Um bloco só pode ser colocado sobre outro bloco se o bloco de baixo
-    > tiver largura suficiente para suportá-lo.
+     tiver largura suficiente para suportá-lo.
 
 -   Um bloco não pode ser colocado parcialmente fora de outro bloco ou
-    > da mesa.
+     da mesa.
 
 **Restrição de Estabilidade:**
 
 -   Todo bloco deve estar completamente apoiado (não pode ter partes
-    > suspensas).
+     suspensas).
 
 -   Blocos não podem flutuar no ar - devem estar sobre a mesa ou sobre
-    > outros blocos.
+     outros blocos.
 
 **Restrições de Estado Inválido:**
 
