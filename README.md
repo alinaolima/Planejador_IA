@@ -20,7 +20,7 @@
 
 ## **1.1.1. s_inicial=i2 até o estado s_final=i2 (a).**
 
-![](/home/joaovfg/IA-2025-1/IA-2025-1/mundo_Dos_Blocos/imgs/img1.jpeg)
+![](https://github.com/alinaolima/Planejador_IA/blob/main/img1.jpeg)
 
 Após a análise da Situação 1, do estado inicial (i2) até o estado (i2a),
 é possível observar que, com base nas restrições definidas e
