@@ -20,7 +20,7 @@
 
 ## **1.1.1. s_inicial=i2 até o estado s_final=i2 (a).**
 
-![](https://github.com/alinaolima/Planejador_IA/blob/main/img1.jpeg)
+![](imgs/img1.jpeg)
 
 Após a análise da Situação 1, do estado inicial (i2) até o estado (i2a),
 é possível observar que, com base nas restrições definidas e
