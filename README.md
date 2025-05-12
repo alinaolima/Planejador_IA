@@ -59,7 +59,7 @@ move(a, on(c), on(d)).
 
 move(c, \[pos(0), pos(1)\], \[on(a), on(b)\]).
 
-##**1.1.2. s_inicial=i2 até o estado s_final=i2 (b).**
+## **1.1.2. s_inicial=i2 até o estado s_final=i2 (b).**
 
 ![](imgs/img2.jpeg)
 
