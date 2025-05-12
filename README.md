@@ -20,7 +20,7 @@
 
 ## **1.1.1. s_inicial=i2 até o estado s_final=i2 (a).**
 
-![](https://github.com/alinaolima/Planejador_IA/blob/main/img1.jpeg)
+![](imgs/img1.jpeg)
 
 Após a análise da Situação 1, do estado inicial (i2) até o estado (i2a),
 é possível observar que, com base nas restrições definidas e
@@ -61,7 +61,7 @@ move(c, \[pos(0), pos(1)\], \[on(a), on(b)\]).
 
 **1.1.2. s_inicial=i2 até o estado s_final=i2 (b).**
 
-![](/home/joaovfg/IA-2025-1/IA-2025-1/mundo_Dos_Blocos/imgs/img2.jpeg)
+![](imgs/img2.jpeg)
 
 Considerando novamente as restrições estabelecidas, o objetivo que vai
 de i2 até i2(b) também pode ser alcançado. Assim, podemos definir o
@@ -150,7 +150,7 @@ move(b, pos(1), pos(5)).
 move(d, pos(6), \[pos(2), pos(3), pos(4)\]).
 
 ## **1.2. Situação 2**
-![](/home/joaovfg/IA-2025-1/IA-2025-1/mundo_Dos_Blocos/imgs/img3.jpeg)
+![](imgs/img3.jpeg)
 
 Na Situação 2, apresentada no PDF, a sequência de ações já está definida
 e ilustrada. Ao analisá-la com base nas restrições estabelecidas pelo
@@ -188,7 +188,7 @@ move(a, on(b), on(c)).
 move(b, pos(2), on(c)).
 
 ## **1.3. Situação 3**
-![](/home/joaovfg/IA-2025-1/IA-2025-1/mundo_Dos_Blocos/imgs/img4.jpeg)
+![](imgs/img4.jpeg)
 
 Na Situação 3, a sequência de ações proposta não pode ser executada com
 sucesso, pois os passos 1, 2 e 3 violam as restrições (restrições de
@@ -207,7 +207,7 @@ de ações.
 
 ## **1.4. Situação 4**
 
-![](/home/joaovfg/IA-2025-1/IA-2025-1/mundo_Dos_Blocos/imgs/img4.jpeg)
+![](imgs/img4.jpeg)
 
 Na Situação 4, ocorre o mesmo problema da situação 3. A sequência de
 ações não pode ser executada, pois os passos 1, 2, 3 e 4 não atendem às
