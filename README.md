@@ -74,18 +74,18 @@ seguinte plano de ações, conforme ilustrado na Figura 1:
 2.  b é movido da posição 5 (na mesa) p/ a posição 1 (em cima de c);
 
 3.  d é movido da posição 2, 3 e 4 (na mesa) p/ a posição 3, 4 e 5 (na
-    > mesa);
+     mesa);
 
 4.  b é movido da posição 1 (em cima de c) p/ a posição 3 (em cima de
-    > d);
+     d);
 
 5.  a é movido da posição 0 (em cima de c) p/ a posição 2 (na mesa);
 
 6.  c é movido da posição 0 e 1 (na mesa) p/ a posição 4 e 5 (em cima
-    > d);
+     d);
 
 7.  b é movido da posição 3 (em cima de d) p/ a posição 5 (em cima de
-    > c);
+     c);
 
 8.  a é movido da posição 2 (na mesa) p/ a posição 4 (em cima de c).
 
@@ -164,16 +164,16 @@ executada com sucesso por meio das seguintes ações:
 2.  b é movido da posição 1 (em cima de c) p/ a posição 2 (na mesa);
 
 3.  a é movido da posição 0 (em cima de c) p/ a posição 2 (em cima de
-    > b);
+     b);
 
 4.  c é movido da posição 0 e 1 (na mesa) p/ a posição 4 e 5 (em cima de
-    > d);
+     d);
 
 5.  a é movido da posição 2 (em cima de b) p/ a posição 4 (em cima de c
-    > que está sobre d);
+     que está sobre d);
 
 6.  b é movido da posição 2 (na mesa) p/ a posição 5 (em cima c que está
-    > sobre d);
+     sobre d);
 
 **Prolog**
 
